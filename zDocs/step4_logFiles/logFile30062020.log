@@ -1,0 +1,216 @@
+Jun 30, 2020 9:55:24 AM Logs logAppend
+INFO: [095524] JSON file successfully appended: {"Date":"30062020","STRAWBERRIES":{"Grade A":"0.60","Grade B":"0.50","Grade C":"0.25"}}
+
+Jun 30, 2020 10:08:41 AM Logs logRetreival
+INFO: [100841] JSON file successfully retrieved: 06062020-RA-222
+
+Jun 30, 2020 10:12:43 AM Logs logRetreival
+INFO: [101243] JSON file successfully retrieved: 06062020-RA-222
+
+Jun 30, 2020 10:18:44 AM Logs logRetreival
+INFO: [101844] JSON file successfully retrieved: 06062020-RA-222
+
+Jun 30, 2020 10:19:50 AM Logs logJSON
+INFO: [101950] JSON file successfully created: {"Grade A":20,"Fruit Weight(KG)":22,"Grade B":51,"Grade C":26,"Fruit Type":"RASPBERRIES","Farm Number":"222","Batch Number":"06062020-RA-222","Grade Rej":3,"Received Date":"06062020"}
+
+Jun 30, 2020 10:20:07 AM Logs logRetreival
+INFO: [102007] JSON file successfully retrieved: 06062020-RA-222
+
+Jun 30, 2020 10:59:04 AM Logs logRetreival
+INFO: [105904] JSON file successfully retrieved: 06062020-RA-222
+
+Jun 30, 2020 10:59:42 AM Logs logRetreival
+INFO: [105942] JSON file successfully retrieved: 06062020-RA-222
+
+Jun 30, 2020 11:00:38 AM Logs logJSON
+INFO: [110038] JSON file successfully created: {"Grade A":20,"Fruit Weight(KG)":22,"Grade B":51,"Grade C":25,"Fruit Type":"RASPBERRIES","Farm Number":"222","Batch Number":"06062020-RA-222","Grade Rej":4,"Received Date":"06062020"}
+
+Jun 30, 2020 11:01:28 AM Logs logRetreival
+INFO: [110128] JSON file successfully retrieved: 06062020-RA-222
+
+Jun 30, 2020 11:02:24 AM Logs logRetreival
+INFO: [110224] JSON file successfully retrieved: 06062020-RA-222
+
+Jun 30, 2020 11:03:10 AM Logs logRetreival
+INFO: [110310] JSON file successfully retrieved: 06062020-RA-222
+
+Jun 30, 2020 11:06:12 AM Logs logRetreival
+INFO: [110611] JSON file successfully retrieved: 06062020-RA-222
+
+Jun 30, 2020 11:12:20 AM Logs logAppend
+INFO: [111220] JSON file successfully appended: {"RASPBERRIES":{"Grade A":"0.40","Grade B":"0.35","Grade C":"0.25"},"Date":"30062020"}
+
+Jun 30, 2020 11:12:58 AM Logs logAppend
+INFO: [111258] JSON file successfully appended: {"BLACKBERRIES":{"Grade A":"0.20","Grade B":"0.18","Grade C":"0.13"},"Date":"30062020"}
+
+Jun 30, 2020 11:13:17 AM Logs logAppend
+INFO: [111317] JSON file successfully appended: {"GOOSEBERRIES":{"Grade A":"0.70","Grade B":"0.60","Grade C":"0.50"},"Date":"30062020"}
+
+Jun 30, 2020 11:13:36 AM Logs logRetreival
+INFO: [111336] JSON file successfully retrieved: 06062020-RA-222
+
+Jun 30, 2020 11:17:47 AM Logs logAppend
+INFO: [111747] JSON file successfully appended: {"RASPBERRIES":{"Grade A":"0.50","Grade B":"0.40","Grade C":"0.26"},"Date":"30062020"}
+
+Jun 30, 2020 11:18:01 AM Logs logRetreival
+INFO: [111801] JSON file successfully retrieved: 06062020-RA-222
+
+Jun 30, 2020 11:18:40 AM Logs logJSON
+INFO: [111840] JSON file successfully created: {"Grade A":50,"Fruit Weight(KG)":22,"Grade B":23,"Grade C":17,"Fruit Type":"RASPBERRIES","Farm Number":"222","Batch Number":"06062020-RA-222","Grade Rej":10,"Received Date":"06062020"}
+
+Jun 30, 2020 11:18:52 AM Logs logRetreival
+INFO: [111852] JSON file successfully retrieved: 06062020-RA-222
+
+Jun 30, 2020 11:19:23 AM Logs logRetreival
+INFO: [111923] JSON file successfully retrieved: 06062020-RA-222
+
+Jun 30, 2020 11:22:30 AM Logs logRetreival
+INFO: [112230] JSON file successfully retrieved: 06062020-RA-222
+
+Jun 30, 2020 11:37:23 AM Logs logAppend
+INFO: [113723] JSON file successfully appended: {"RASPBERRIES":{"Grade A":"0.50","Grade B":"0.40","Grade C":"0.26"},"Date":"30062020","STRAWBERRIES":{"Grade A":"0.40","Grade B":"0.35","Grade C":"0.25"}}
+
+Jun 30, 2020 11:37:56 AM Logs logAppend
+INFO: [113756] JSON file successfully appended: {"RASPBERRIES":{"Grade A":"0.45","Grade B":"0.35","Grade C":"0.10"},"Date":"30062020","STRAWBERRIES":{"Grade A":"0.40","Grade B":"0.35","Grade C":"0.25"}}
+
+Jun 30, 2020 11:38:18 AM Logs logAppend
+INFO: [113818] JSON file successfully appended: {"RASPBERRIES":{"Grade A":"0.45","Grade B":"0.35","Grade C":"0.10"},"BLACKBERRIES":{"Grade A":"0.30","Grade B":"0.28","Grade C":"0.25"},"Date":"30062020","STRAWBERRIES":{"Grade A":"0.40","Grade B":"0.35","Grade C":"0.25"}}
+
+Jun 30, 2020 11:38:37 AM Logs logAppend
+INFO: [113837] JSON file successfully appended: {"RASPBERRIES":{"Grade A":"0.45","Grade B":"0.35","Grade C":"0.10"},"BLACKBERRIES":{"Grade A":"0.30","Grade B":"0.28","Grade C":"0.25"},"GOOSEBERRIES":{"Grade A":"0.70","Grade B":"0.66","Grade C":"0.50"},"Date":"30062020","STRAWBERRIES":{"Grade A":"0.40","Grade B":"0.35","Grade C":"0.25"}}
+
+Jun 30, 2020 11:39:47 AM Logs logRetreival
+INFO: [113947] JSON file successfully retrieved: 06062020-RA-222
+
+Jun 30, 2020 11:46:56 AM Logs logRetreival
+INFO: [114656] JSON file successfully retrieved: 06062020-RA-222
+
+Jun 30, 2020 11:49:49 AM Logs logRetreival
+INFO: [114948] JSON file successfully retrieved: 06062020-RA-222
+
+Jun 30, 2020 11:57:02 AM Logs logRetreival
+INFO: [115702] JSON file successfully retrieved: 06062020-RA-222
+
+Jun 30, 2020 11:58:08 AM Logs logRetreival
+INFO: [115808] JSON file successfully retrieved: 06062020-RA-222
+
+Jun 30, 2020 11:58:51 AM Logs logRetreival
+INFO: [115851] JSON file successfully retrieved: 06062020-RA-222
+
+Jun 30, 2020 12:04:02 PM Logs logRetreival
+INFO: [120402] JSON file successfully retrieved: 06062020-RA-222
+
+Jun 30, 2020 12:05:23 PM Logs logRetreival
+INFO: [120523] JSON file successfully retrieved: 06062020-RA-222
+
+Jun 30, 2020 12:11:01 PM Logs logRetreival
+INFO: [121101] JSON file successfully retrieved: 06062020-RA-222
+
+Jun 30, 2020 12:11:48 PM Logs logRetreival
+INFO: [121148] JSON file successfully retrieved: 06062020-ST-111
+
+Jun 30, 2020 12:12:25 PM Logs logRetreival
+INFO: [121225] JSON file successfully retrieved: 29052020-BL-300
+
+Jun 30, 2020 1:28:40 PM Logs logRetreival
+INFO: [132840] JSON file successfully retrieved: 06062020-RA-222
+
+Jun 30, 2020 1:29:06 PM Logs logJSON
+INFO: [132906] JSON file successfully created: {"Grade A":45,"Fruit Weight(KG)":22,"Grade B":41,"Grade C":11,"Fruit Type":"RASPBERRIES","Farm Number":"222","Batch Number":"06062020-RA-222","Grade Rej":3,"Received Date":"06062020"}
+
+Jun 30, 2020 1:29:07 PM Logs logJSON
+INFO: [132907] JSON file successfully created: {"Grade A":45,"Fruit Weight(KG)":22,"Grade B":41,"Grade C":11,"Fruit Type":"RASPBERRIES","Farm Number":"222","Total Price (£)":7.86,"Batch Number":"06062020-RA-222","Grade Rej":3,"Received Date":"06062020"}
+
+Jun 30, 2020 1:29:51 PM Logs logRetreival
+INFO: [132951] JSON file successfully retrieved: 06062020-RA-222
+
+Jun 30, 2020 1:48:24 PM Logs logRetreival
+INFO: [134824] JSON file successfully retrieved: 06062020-RA-222
+
+Jun 30, 2020 1:49:18 PM Logs logRetreival
+INFO: [134918] JSON file successfully retrieved: 06062020-RA-222
+
+Jun 30, 2020 1:49:43 PM Logs logJSON
+INFO: [134943] JSON file successfully created: {"Grade A":53,"Fruit Weight(KG)":22,"Grade B":27,"Grade C":15,"Fruit Type":"RASPBERRIES","Farm Number":"222","Total Price (£)":7.86,"Batch Number":"06062020-RA-222","Grade Rej":5,"Received Date":"06062020"}
+
+Jun 30, 2020 1:49:44 PM Logs logJSON
+INFO: [134944] JSON file successfully created: {"Grade B Price":7.66,"Fruit Weight(KG)":22,"Fruit Type":"RASPBERRIES","Farm Number":"222","Grade C Price":7.66,"Grade Rej":5,"Grade A":53,"Grade B":27,"Grade C":15,"Total Price (£)":7.66,"Grade A Price":7.66,"Batch Number":"06062020-RA-222","Received Date":"06062020"}
+
+Jun 30, 2020 1:52:51 PM Logs logRetreival
+INFO: [135251] JSON file successfully retrieved: 06062020-RA-222
+
+Jun 30, 2020 1:53:02 PM Logs logJSON
+INFO: [135302] JSON file successfully created: {"Grade B Price":7.66,"Fruit Weight(KG)":22,"Fruit Type":"RASPBERRIES","Farm Number":"222","Grade C Price":7.66,"Grade Rej":5,"Grade A":53,"Grade B":27,"Grade C":15,"Total Price (£)":7.66,"Grade A Price":7.66,"Batch Number":"06062020-RA-222","Received Date":"06062020"}
+
+Jun 30, 2020 1:53:03 PM Logs logJSON
+INFO: [135303] JSON file successfully created: {"Grade B Price":"2.08","Fruit Weight(KG)":22,"Fruit Type":"RASPBERRIES","Farm Number":"222","Grade C Price":"0.33","Grade Rej":5,"Grade A":53,"Grade B":27,"Grade C":15,"Total Price (£)":7.66,"Grade A Price":"5.25","Batch Number":"06062020-RA-222","Received Date":"06062020"}
+
+Jun 30, 2020 1:53:43 PM Logs logRetreival
+INFO: [135343] JSON file successfully retrieved: 06062020-RA-222
+
+Jun 30, 2020 2:01:02 PM Logs logJSON
+INFO: [140102] JSON file successfully created: {"Fruit Weight(KG)":78,"Fruit Type":"GOOSEBERRIES","Farm Number":"789","Batch Number":"30062020-GO-789","Received Date":"30062020"}
+
+Jun 30, 2020 2:09:15 PM Logs logRetreival
+INFO: [140915] JSON file successfully retrieved: 06062020-RA-222
+
+Jun 30, 2020 3:01:16 PM Logs logRetreival
+INFO: [150116] JSON file successfully retrieved: 06062020
+
+Jun 30, 2020 3:05:12 PM Logs logRetreival
+INFO: [150512] JSON file successfully retrieved: 06062020
+
+Jun 30, 2020 3:08:10 PM Logs logRetreival
+INFO: [150810] JSON file successfully retrieved: 06062020
+
+Jun 30, 2020 3:08:30 PM Logs logRetreival
+INFO: [150830] JSON file successfully retrieved: 06062020
+
+Jun 30, 2020 3:11:20 PM Logs logRetreival
+INFO: [151120] JSON file successfully retrieved: 06062020-ST-111
+
+Jun 30, 2020 3:11:43 PM Logs logJSON
+INFO: [151143] JSON file successfully created: {"Grade A":27,"Fruit Weight(KG)":11,"Grade B":45,"Grade C":27,"Fruit Type":"STRAWBERRIES","Farm Number":"111","Batch Number":"06062020-ST-111","Grade Rej":1,"Received Date":"06062020"}
+
+Jun 30, 2020 3:11:45 PM Logs logJSON
+INFO: [151145] JSON file successfully created: {"Grade B Price":"1.73","Fruit Weight(KG)":11,"Fruit Type":"STRAWBERRIES","Farm Number":"111","Grade C Price":"0.74","Grade Rej":1,"Grade A":27,"Grade B":45,"Grade C":27,"Grade A Price":"1.19","Total Price (£)":3.66,"Batch Number":"06062020-ST-111","Received Date":"06062020"}
+
+Jun 30, 2020 3:11:55 PM Logs logRetreival
+INFO: [151155] JSON file successfully retrieved: 06062020
+
+Jun 30, 2020 3:15:04 PM Logs logRetreival
+INFO: [151504] JSON file successfully retrieved: 06062020
+
+Jun 30, 2020 3:16:35 PM Logs logRetreival
+INFO: [151635] JSON file successfully retrieved: 06062020
+
+Jun 30, 2020 3:17:08 PM Logs logRetreival
+INFO: [151708] JSON file successfully retrieved: 06062020
+
+Jun 30, 2020 3:20:30 PM Logs logJSON
+INFO: [152030] JSON file successfully created: {"Fruit Weight(KG)":10,"Fruit Type":"RASPBERRIES","Farm Number":"002","Batch Number":"30062020-RA-002","Received Date":"30062020"}
+
+Jun 30, 2020 3:21:26 PM Logs logRetreival
+INFO: [152126] JSON file successfully retrieved: 30062020-RA-002
+
+Jun 30, 2020 3:21:48 PM Logs logRetreival
+INFO: [152148] JSON file successfully retrieved: 30062020-RA-002
+
+Jun 30, 2020 3:22:06 PM Logs logJSON
+INFO: [152206] JSON file successfully created: {"Grade A":100,"Fruit Weight(KG)":10,"Grade B":0,"Grade C":0,"Fruit Type":"RASPBERRIES","Farm Number":"002","Batch Number":"30062020-RA-002","Grade Rej":0,"Received Date":"30062020"}
+
+Jun 30, 2020 3:22:07 PM Logs logJSON
+INFO: [152207] JSON file successfully created: {"Grade B Price":"0.00","Fruit Weight(KG)":10,"Fruit Type":"RASPBERRIES","Farm Number":"002","Grade C Price":"0.00","Grade Rej":0,"Grade A":100,"Grade B":0,"Grade C":0,"Grade A Price":"4.50","Total Price (£)":4.5,"Batch Number":"30062020-RA-002","Received Date":"30062020"}
+
+Jun 30, 2020 3:22:36 PM Logs logAppend
+INFO: [152236] JSON file successfully appended: {"RASPBERRIES":{"Grade A":"100.00","Grade B":"10.00","Grade C":"20.00"},"BLACKBERRIES":{"Grade A":"0.30","Grade B":"0.28","Grade C":"0.25"},"GOOSEBERRIES":{"Grade A":"0.70","Grade B":"0.66","Grade C":"0.50"},"Date":"30062020","STRAWBERRIES":{"Grade A":"0.40","Grade B":"0.35","Grade C":"0.25"}}
+
+Jun 30, 2020 3:22:57 PM Logs logAppend
+INFO: [152257] JSON file successfully appended: {"RASPBERRIES":{"Grade A":"100.00","Grade B":"10.00","Grade C":"20.00"},"BLACKBERRIES":{"Grade A":"0.30","Grade B":"0.28","Grade C":"0.25"},"GOOSEBERRIES":{"Grade A":"0.70","Grade B":"0.66","Grade C":"0.50"},"Date":"30062020","STRAWBERRIES":{"Grade A":"0.10","Grade B":"0.10","Grade C":"0.10"}}
+
+Jun 30, 2020 3:23:19 PM Logs logAppend
+INFO: [152319] JSON file successfully appended: {"RASPBERRIES":{"Grade A":"100.00","Grade B":"10.00","Grade C":"20.00"},"BLACKBERRIES":{"Grade A":"10.00","Grade B":"1.00","Grade C":"1.00"},"GOOSEBERRIES":{"Grade A":"0.70","Grade B":"0.66","Grade C":"0.50"},"Date":"30062020","STRAWBERRIES":{"Grade A":"0.10","Grade B":"0.10","Grade C":"0.10"}}
+
+Jun 30, 2020 3:23:38 PM Logs logRetreival
+INFO: [152338] JSON file successfully retrieved: 30062020
+

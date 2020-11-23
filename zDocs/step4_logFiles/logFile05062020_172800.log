@@ -1,0 +1,4 @@
+Jun 05, 2020 5:28:00 PM Logs logJSON
+INFO: JSON file successfully created: {"Date":"05062020","STRAWBERRIES":{"Grade A":1.5,"Grade B":1.2,"Grade C":0.75}}
+Jun 05, 2020 5:29:02 PM Logs logJSON
+INFO: JSON file successfully created: {"Date":"05062020","STRAWBERRIES":{"Grade A":1.4,"Grade B":1.1,"Grade C":0.75}}
